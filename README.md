@@ -1,4 +1,4 @@
-# LP-Diff: Towards Improved Restoration of Real-World Degraded License Plate [[Paper Link]]((https://openaccess.thecvf.com/content/CVPR2025/html/Gong_LP-Diff_Towards_Improved_Restoration_of_Real-World_Degraded_License_Plate_CVPR_2025_paper.html))
+# LP-Diff: Towards Improved Restoration of Real-World Degraded License Plate [[Paper Link]](https://openaccess.thecvf.com/content/CVPR2025/html/Gong_LP-Diff_Towards_Improved_Restoration_of_Real-World_Degraded_License_Plate_CVPR_2025_paper.html)
 [Haoyan Gong], [Zhenrong Zhang], [Yuzheng Feng], [Anh Nguyen] and [Hongbin Liu*]
 
 
