@@ -1,7 +1,7 @@
 # LPDGAN
 
 
-### LP-Diff: Towards Improved Restoration of Real-World Degraded License Plate [[Paper Link]]([https://arxiv.org/abs/2404.13677](https://openaccess.thecvf.com/content/CVPR2025/html/Gong_LP-Diff_Towards_Improved_Restoration_of_Real-World_Degraded_License_Plate_CVPR_2025_paper.html))
+### LP-Diff: Towards Improved Restoration of Real-World Degraded License Plate [[Paper Link]](https://openaccess.thecvf.com/content/CVPR2025/html/Gong_LP-Diff_Towards_Improved_Restoration_of_Real-World_Degraded_License_Plate_CVPR_2025_paper.html))
 [Haoyan Gong], [Zhenrong Zhang], [Yuzheng Feng], [Anh Nguyen] and [Hongbin Liu*]
 
 
@@ -9,7 +9,7 @@
 
 **Comparison with the other methods.**
 
-<img src="https://github.com/haoyGONG/LP-Diff/tree/main/figs/results_with_word.jpg" width="800"/>
+<img src="https://github.com/haoyGONG/LP-Diff/tree/main/figs/results_with_word.jpg" width="300"/>
 
 
 
