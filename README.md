@@ -9,7 +9,7 @@
 
 **Comparison with the other methods.**
 
-<img src="https://github.com/haoyGONG/LP-Diff/tree/main/figs/results_with_word.png" width="800"/>
+<img src="https://github.com/haoyGONG/LP-Diff/tree/main/figs/results_with_word.jpg" width="800"/>
 
 
 
