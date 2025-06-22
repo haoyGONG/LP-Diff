@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/results_with_word.png">
-    <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/results_with_word.png" width="100%">
+    <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/results_with_word.png" width="80%">
   </a>
 </p>
 
@@ -82,12 +82,15 @@ _(On MDLP real-world test set. NED: normalized edit distance; ACC: text recognit
 The **MDLP Dataset** consists of 11,006 groups of real-world degraded license plate images. The dataset was collected under diverse real-world conditions, including various distances, illumination changes, and weather conditions. It provides multi-frame degraded images with corresponding clear ground-truth images for robust restoration model training.
 
 **Dataset collection pipeline:**
+
 <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/data collection.png" width="100%"/>
 
 **Example images:**
+
 <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/dataset.png" width="100%"/>
 
 **Detail of one license plate image:**
+
 <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/dataset_onedetail.png" width="100%"/>
 
 
