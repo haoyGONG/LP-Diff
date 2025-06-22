@@ -40,10 +40,12 @@ Our method **outperforms prior SOTA** on real LP images, both quantitatively and
 ## 🌟 Visual Results
 
 **Qualitative comparison on real-world LP images:**
+
 <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/results_v2.png" width="100%"/>
 
-These are some confusing letters and complex Chinese characters:
-<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/char_chinese.png" width="700"/>
+**These are some confusing letters and complex Chinese characters:**
+
+<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/char_chinese.png" width="100%"/>
 
 
 ## 📊 Quantitative Results
@@ -71,7 +73,7 @@ _(On MDLP real-world test set. NED: normalized edit distance; ACC: text recognit
     
 - **RCDM**: Residual Condition Diffusion Module
 
- <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/backbone_v2.png" width="700"/>
+ <img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/backbone_v2.png" width="100%"/>
 
 ---
 
@@ -80,13 +82,13 @@ _(On MDLP real-world test set. NED: normalized edit distance; ACC: text recognit
 The **MDLP Dataset** consists of 11,006 groups of real-world degraded license plate images. The dataset was collected under diverse real-world conditions, including various distances, illumination changes, and weather conditions. It provides multi-frame degraded images with corresponding clear ground-truth images for robust restoration model training.
 
 **Dataset collection pipeline:**
-<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/data collection.png" width="700"/>
+<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/data collection.png" width="100%"/>
 
 **Example images:**
-<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/dataset.png" width="700"/>
+<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/dataset.png" width="100%"/>
 
 **Detail of one license plate image:**
-<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/dataset_onedetail.png" width="700"/>
+<img src="https://raw.githubusercontent.com/haoyGONG/LP-Diff/main/figs/dataset_onedetail.png" width="100%"/>
 
 
 ---
